@@ -1,6 +1,3 @@
-Sure! Here’s the entire README.md as one copy-paste-ready block:
-
-````markdown
 # Django Tweet Posting App
 
 ## Overview
